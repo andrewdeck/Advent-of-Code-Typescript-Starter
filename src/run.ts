@@ -11,4 +11,4 @@ if (isNaN(dayNumber)) {
   process.exit(1);
 }
 
-execSync(`npx tsx src/day${dayNumber}/solve.ts`);
+execSync(`npx tsx src/day${dayNumber}/solve.ts`, { stdio: "inherit" });
