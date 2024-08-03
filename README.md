@@ -1,4 +1,4 @@
-# Advent Of Code Typesciprt Starter
+# Advent Of Code Typescript Starter
 
 Starting point for solving [adventofcode.com](adventofcode.com) puzzles in Typescript.
 
